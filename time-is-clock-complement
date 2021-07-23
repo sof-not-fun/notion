@@ -1,0 +1,6 @@
+<a href="https://time.is/Puebla" id="time_is_link" rel="nofollow" style="font-size:30px;color:#FFFFFF;background:#F8BFBF">Hora local en Puebla de Zaragoza:</a>
+<span id="Puebla_z159" style="font-size:30px;color:#FFFFFF;background:#F8BFBF"></span>
+<script src="//widget.time.is/es.js"></script>
+<script>
+time_is_widget.init({Puebla_z159:{template:"TIME<br>DATE", date_format:"dayname, monthname dnum, year, week"}});
+</script>
